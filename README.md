@@ -11,6 +11,7 @@ Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
 
 ![Joanadt98 status](https://github-readme-stats.vercel.app/api?username=Joanadt98l&show_icons=true&locale=en)
 
+
 **Joanadt98/Joanadt98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
