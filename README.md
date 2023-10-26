@@ -2,7 +2,7 @@
 Soy estudiante del Máster de profesorado, ull. Vivo en las Islas Canarias :es:.
 
 Estudie biología :sunflower:
-# Mis gustos o aficiones son: 
+### Mis gustos o aficiones son: 
 * Viajar
 * Navegar
 * Ir al cine
