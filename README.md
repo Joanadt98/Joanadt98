@@ -6,7 +6,7 @@ Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
 * Ir al cine
 * Dormir
 
-## Biology vs Technology +1
+## Biology vs Technology :heart_eyes:
 ![image](https://github.com/Joanadt98/Joanadt98/assets/148484350/3c7fd5f8-aecd-42fa-aae7-55975237a9b9)
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
