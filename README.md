@@ -11,8 +11,11 @@ Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
 
 ![Joanadt98 status](https://github.com/Joanadt98/Joanadt98)
 
-
-
+Asignatura   |   Alumnos
+---------    |  ---------
+Tecnología   |     22
+Biología     |     25
+Matemáticas  |     21
 
 **Joanadt98/Joanadt98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
