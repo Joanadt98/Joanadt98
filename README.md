@@ -14,8 +14,6 @@ Estudie biología :sunflower:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Joanadt98 status](https://github.com/Joanadt98/Joanadt98)
-
 Asignatura   |   Alumnos
 ---------    |  ---------
 Tecnología   |     22
