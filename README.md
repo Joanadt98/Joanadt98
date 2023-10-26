@@ -1,6 +1,6 @@
 ### Hi there 👋
 Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
-Mis gustos o aficiones son: 
+- Mis gustos o aficiones son: 
 * Viajar
 * Navegar
 * Ir al cine
