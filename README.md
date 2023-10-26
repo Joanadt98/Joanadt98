@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Joana :woman:
 Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
 - Mis gustos o aficiones son: 
 * Viajar
