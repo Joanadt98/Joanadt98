@@ -1,10 +1,13 @@
-### Hi there 👋
+![image](https://github.com/Joanadt98/Joanadt98/assets/148484350/3c7fd5f8-aecd-42fa-aae7-55975237a9b9)### Hi there 👋
 Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
 - Mis gustos o aficiones son: 
 * Viajar
 * Navegar
 * Ir al cine
 * Dormir
+
+  
+  ![](![Uploading image.png…])
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
