@@ -1,4 +1,10 @@
 ### Hi there 👋
+Soy estudiante de Máster de profesora. Vivo en España, Islas Canarias.
+Mis gustos o aficiones son: 
+* Viajar
+* Navegar
+* Ir al cine
+* Dormir
 
 <!--
 **Joanadt98/Joanadt98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
