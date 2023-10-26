@@ -1,5 +1,5 @@
 ### Hi there 👋
-Soy estudiante de Máster de profesora. Vivo en España, Islas Canarias.
+Soy estudiante del Máster de profesorado. Vivo en España, Islas Canarias.
 Mis gustos o aficiones son: 
 * Viajar
 * Navegar
