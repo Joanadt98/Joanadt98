@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Joana :woman:
 Soy estudiante del Máster de profesorado, ull. Vivo en las Islas Canarias :es:.
-Estidie biología :sunflower:
+
+Estudie biología :sunflower:
 - Mis gustos o aficiones son: 
 * Viajar
 * Navegar
