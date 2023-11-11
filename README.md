@@ -6,7 +6,7 @@ Estudie biología :sunflower:
 * Viajar
 * Navegar
 * Ir al cine
-* Dormir
+
 
 ## Biology vs Technology :heart_eyes:
 ![image](https://github.com/Joanadt98/Joanadt98/assets/148484350/3c7fd5f8-aecd-42fa-aae7-55975237a9b9)
